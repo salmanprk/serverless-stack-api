@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Logs
 logs
 *.log
@@ -50,3 +51,6 @@ env.yml
 
 # Jetbrains IDEs
 .idea
+=======
+node_modules
+>>>>>>> Stashed changes
